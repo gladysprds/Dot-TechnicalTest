@@ -1,0 +1,4 @@
+starter\stepdefinitions\LoginStepDefinitions.class
+starter\pages\HomePage.class
+starter\pages\LoginPage.class
+starter\cucumberTestSuite.class
