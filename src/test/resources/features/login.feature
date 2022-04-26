@@ -29,3 +29,4 @@ Feature: Login
       |   |             |Login Page|
       |dummyforta2022@gmail.com|gladz1511#|Login Page|
       |dummyforta2@gmail.com|realgladz1511|Login Page|
+      |dummyforta2@gmail.com|realgladz151|Login Page|

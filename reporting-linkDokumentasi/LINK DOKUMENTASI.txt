@@ -1,0 +1,46 @@
+Positif
+-klik icon account
+-input username/email address
+-input password
+-klik button login
+
+Negatif(password null)(The password field is empty.)
+-klik icon account
+-input username/email address
+-klik button login
+
+Negatif(username null)(Username is required.)
+-klik icon account
+-input password address
+-klik button login
+
+
+Negatif(username&passsword null)(Username is required)
+-klik icon account
+-klik button login
+
+
+Negatif(username valid & password invalid)(The password you entered for the email address dummyforta2022@gmail.com is incorrect. Lost your password?)
+-klik icon account
+-input valid username/email address 
+-input invalid password
+-klik button login
+
+
+Negatif(username invvalid & password valid)(Unknown email address. Check again or try your username.)
+-klik icon account
+-input invalid username/email address 
+-input valid password
+-klik button login
+
+Negatif(username invalid & password invalid )(Unknown email address. Check again or try your username.)
+-klik icon account
+-input invalid username/email address 
+-input invalid password
+-klik button login
+
+
+
+
+
+
